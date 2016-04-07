@@ -9,6 +9,7 @@ cd  es6-starter
 ```
 
 #install the project's independencies
+``` bash
 npm install
 ```
 To run the application
